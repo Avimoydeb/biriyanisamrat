@@ -1,0 +1,6 @@
+{
+  "name": "Biriyani Samrat | বিরিয়ানি সম্রাট",
+  "description": "Experience authentic Royal Kacchi Biriyani, Morog Polao, and Mughlai culinary excellence. গুণমানে আপস নয়, স্বাদে সেরা আমরা!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
